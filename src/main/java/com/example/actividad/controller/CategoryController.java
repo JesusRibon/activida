@@ -1,5 +1,4 @@
 package com.example.actividad.controller;
-
 import com.example.actividad.models.Category;
 import com.example.actividad.service.CategoryService;
 import org.springframework.beans.factory.annotation.Autowired;
