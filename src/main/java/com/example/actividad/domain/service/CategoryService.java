@@ -1,6 +1,6 @@
-package com.example.actividad.service;
+package com.example.actividad.domain.service;
 
-import com.example.actividad.models.Category;
+import com.example.actividad.domain.models.Category;
 
 import java.util.List;
 

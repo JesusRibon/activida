@@ -1,11 +1,10 @@
-package com.example.actividad.controller;
+package com.example.actividad.infrastructure.api.controller;
 
-import com.example.actividad.models.Product;
-import com.example.actividad.service.ProductService;
+import com.example.actividad.domain.models.Product;
+import com.example.actividad.domain.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

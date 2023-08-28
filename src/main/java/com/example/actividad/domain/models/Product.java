@@ -1,4 +1,4 @@
-package com.example.actividad.models;
+package com.example.actividad.domain.models;
 
 import java.util.List;
 
